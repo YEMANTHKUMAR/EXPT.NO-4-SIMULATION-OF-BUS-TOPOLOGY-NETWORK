@@ -49,7 +49,7 @@ STEP 17: Stop the program.
 #Create a simulator object set ns [new Simulator] #Open the nam trace file set nf [open out.nam w]
 $ns namtrace-all $nf #Define a 'finish' procedure proc finish {}
 {
-global ns nf
+global ns nf 
 $ns flush-trace close $nf
 #Execute nam on the trace file exec nam out.nam &
 exit 0
