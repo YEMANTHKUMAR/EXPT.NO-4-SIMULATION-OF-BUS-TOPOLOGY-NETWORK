@@ -77,8 +77,9 @@ $ns run
 ``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
  
 # OUTPUT
+<img width="990" height="547" alt="image" src="https://github.com/user-attachments/assets/9c518957-83eb-4cd1-9bc6-29629d983242" />
 
-<img width="940" height="514" alt="image" src="https://github.com/user-attachments/assets/6afcbbbc-2b3b-42a4-b018-2ca593565d59" />
+
 
 # RESULT
 
